@@ -1,5 +1,16 @@
 # Docs Sync Log
 
+## v2.4.0 — 2026-05-05
+Source: https://roadmap.wdesignkit.com/updates/v2-4-0
+
+### Created
+- docs/deactivation-popup.md
+
+### Updated
+- docs/general.md → ## Changelog — WordPress v7.0 compatibility + feature enhancements added
+
+---
+
 ## v2.3.1 — 2026-05-05
 Source: https://roadmap.wdesignkit.com/updates/2-3-1
 

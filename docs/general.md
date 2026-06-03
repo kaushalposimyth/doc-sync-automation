@@ -1,12 +1,16 @@
 # General
 
-> Last updated: v2.3.1 — 2026-05-05
+> Last updated: v2.4.0 — 2026-05-05
 
 ## Overview
 
 This file tracks general fixes and improvements not tied to a specific widget.
 
 ## Changelog
+
+### v2.4.0 — 2026-05-05
+> **Improvement:** WordPress v7.0 compatibility added.
+> **Improvement:** New abilities and feature enhancements introduced.
 
 ### v2.3.1 — 2026-05-05
 > **Bug Fix:** Minor bug fixes and general improvements applied.
