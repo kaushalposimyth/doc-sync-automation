@@ -1,6 +1,6 @@
 # Docs Sync Log
 
-## v2.4.0 — 2026-05-05
+## v2.4.0 — 2026-06-05
 Source: https://roadmap.wdesignkit.com/updates/v2-4-0
 
 ### Created
@@ -11,7 +11,7 @@ Source: https://roadmap.wdesignkit.com/updates/v2-4-0
 
 ---
 
-## v2.3.1 — 2026-05-05
+## v2.3.1 — 2026-05-20
 Source: https://roadmap.wdesignkit.com/updates/2-3-1
 
 ### Updated
@@ -21,7 +21,7 @@ Source: https://roadmap.wdesignkit.com/updates/2-3-1
 
 ---
 
-## v2.3.0 — 2026-05-05
+## v2.3.0 — 2026-05-15
 Source: https://roadmap.wdesignkit.com/updates/2-3-0
 
 ### Created

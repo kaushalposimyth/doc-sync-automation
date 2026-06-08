@@ -5,8 +5,39 @@
     "proposed_file": "docs-updates/proposed-2026-05-05-wdesignkit-v2-2-8.md",
     "edits_count": 3,
     "edits_applied": 0,
-    "edits_skipped": 0,
+    "edits_skipped": 3,
     "status": "pending",
-    "applied_at": null
+    "applied_at": null,
+    "skip_reason": "Target file 'context/features.md' does not exist in repository"
+  },
+  {
+    "url": "https://roadmap.wdesignkit.com/updates/2-3-0",
+    "fetched": "2026-05-15",
+    "proposed_file": "docs-updates/proposed-2026-05-15-v2-3-0.md",
+    "edits_count": 2,
+    "edits_applied": 2,
+    "edits_skipped": 0,
+    "status": "applied",
+    "applied_at": "2026-05-15"
+  },
+  {
+    "url": "https://roadmap.wdesignkit.com/updates/2-3-1",
+    "fetched": "2026-05-20",
+    "proposed_file": "docs-updates/proposed-2026-05-20-v2-3-1.md",
+    "edits_count": 3,
+    "edits_applied": 3,
+    "edits_skipped": 0,
+    "status": "applied",
+    "applied_at": "2026-05-20"
+  },
+  {
+    "url": "https://roadmap.wdesignkit.com/updates/v2-4-0",
+    "fetched": "2026-06-05",
+    "proposed_file": "docs-updates/proposed-2026-06-05-v2-4-0.md",
+    "edits_count": 2,
+    "edits_applied": 2,
+    "edits_skipped": 0,
+    "status": "applied",
+    "applied_at": "2026-06-05"
   }
 ]

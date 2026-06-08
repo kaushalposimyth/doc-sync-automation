@@ -33,8 +33,8 @@ docs-updates/
 changelogs/                  ← structured changelog entries from /changelog command
 CHANGELOG.md                 ← root Keep-a-Changelog summary
 .claude/
-  commands/                  ← slash command definitions
-  agents/                    ← specialist agents
+  commands/                  ← slash command definitions (sync-docs, apply-docs, changelog)
+  agents/                    ← specialist agents (doc-sync-agent, changelog-refiner)
 ```
 
 ## Standard Doc Template

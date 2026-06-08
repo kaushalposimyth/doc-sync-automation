@@ -3,6 +3,7 @@ source_url: https://roadmap.wdesignkit.com/updates/v2-2-8
 fetched: 2026-05-05
 status: pending
 edits_count: 3
+orphaned_note: "Target file 'context/features.md' does not exist in this repository. To apply these edits, either create the target file or skip this proposed-edit batch."
 ---
 
 <!-- EDIT:1 -->
